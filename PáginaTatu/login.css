@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(206, 179, 179, 0.719);
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+.parte5 {
+    background-color: #e7dbdb;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50px;
+    width: 30%;
+    height: 300px;
+}
+.parte5 h1 {
+    color: rgb(23, 96, 145);
+}
+.parte5 label{
+    color: rgb(202, 200, 57);
+}
+
+.parte5 input{
+    color: blue;
+}
+#lemail {
+    border-radius: 50px;
+    color: blanchedalmond;
+}
+#lsenha {
+    border-radius: 50px;
+    color: blanchedalmond;
+}
